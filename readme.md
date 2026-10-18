@@ -71,6 +71,8 @@ Icons that are not general or logos, but something special.
 - [Mapsicon](https://github.com/djaiss/mapsicon#readme) - A free collection of maps for every country in the world.
 - [IconicFonts](https://github.com/iconicFonts/iconic-fonts#readme) - Over 50 pre-patched fonts featuring 60k icons as glyphs.
 
+- [SVG Cities](https://github.com/anto1/city-icons#readme) - Free line-art SVG icons of 300+ cities and their landmarks. ([Website](https://svgcities.com))
+
 ## Other
 
 ### CSS only
